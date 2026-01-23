@@ -1,1 +1,1 @@
-[https://github.com/irfan-musyaffa/game-kembangapi](https://github.com/irfan-musyaffa/game-kembangapi)
+[https://irfan-musyaffa.github.io/game-kembangapi/](https://irfan-musyaffa.github.io/game-kembangapi/)
